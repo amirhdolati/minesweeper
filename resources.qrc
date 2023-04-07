@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource prefix="">
+		<file>resources/images/bomb.png</file>
+		<file>resources/images/mark-bomb.png</file>
+		<file>resources/images/block.png</file>
+		<file>resources/images/empty-block.png</file>
+	</qresource>	
+</RCC>
